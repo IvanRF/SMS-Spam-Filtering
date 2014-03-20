@@ -16,7 +16,7 @@ The [PDF file](SMS-Spam-Filtering_(Spanish).pdf?raw=true) includes the results o
 Every .dat file represents a ```FilteredClassifier```. When you train a classifier on the SMSSpamCollection dataset, the software saves the trained model into a .dat file.
 
 ## Download ##
-You can [download the latest release](releases/latest). The zip file contains the required files to run the application and some trained models.
+You can [download the latest release](../releases/latest). The zip file contains the required files to run the application and some trained models.
 
 ## Screenshots ##
 ![Classify - SMS is Spam](screenshots/1.png)
